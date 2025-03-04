@@ -1,0 +1,44 @@
+
+html {
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #FFFD37;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+button{
+    height: 48px;
+    width: 124px;
+}
+
+img {
+    width: 128px;
+    height: auto;
+} 
+
+h1 {
+    font-size: 64px;
+}
+
+h2 {
+    font-size: 48px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+
+.itemCont {
+    border-bottom: 1px solid black;
+}
+
+.banner {
+    display: flex;
+    justify-content:center;
+    margin-bottom: 4%;
+}
